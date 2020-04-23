@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.venom" name="[B][COLOR red]Venom[/COLOR] Repo[/B]" version="1.6" provider-name="Venom">
+<addon id="repository.garyaddon1" name="[B][COLOR red]Garyaddon1[/COLOR] Repo[/B]" version="1.0" provider-name="Garyaddon1">
 	<extension point="xbmc.addon.repository" name="Venom Repo">
 
 		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/123Venom/zips/master/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/123Venom/zips/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/123Venom/zips/master/</datadir>
+			<info compressed="false">https://raw.githubusercontent.com/123Garyaddon1/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/123Garyaddon1/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/123Garyaddon1/zips/master/</datadir>
 		</dir>
 
 		<dir>
